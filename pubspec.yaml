@@ -45,6 +45,7 @@ flutter:
     - img/neptune.png
     - img/ic_gravity.png
     - img/ic_distance.png
+    - img/background.jpg
   #  - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
